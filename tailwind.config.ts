@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				school: {
+					orange: '#FF6B35',
+					yellow: '#4ECDC4',
+					blue: '#45B7D1',
+					green: '#96CEB4',
+					lavender: '#D3D3D6',
+					turquoise: '#FFEAA7',
+					success: '#DDA0DD'
 				}
 			},
 			borderRadius: {
